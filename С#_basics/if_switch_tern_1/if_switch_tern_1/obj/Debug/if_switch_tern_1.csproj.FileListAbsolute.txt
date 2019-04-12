@@ -1,0 +1,7 @@
+C:\Users\Aquil\source\repos\if_switch_tern_1\if_switch_tern_1\bin\Debug\if_switch_tern_1.exe.config
+C:\Users\Aquil\source\repos\if_switch_tern_1\if_switch_tern_1\bin\Debug\if_switch_tern_1.exe
+C:\Users\Aquil\source\repos\if_switch_tern_1\if_switch_tern_1\bin\Debug\if_switch_tern_1.pdb
+C:\Users\Aquil\source\repos\if_switch_tern_1\if_switch_tern_1\obj\Debug\if_switch_tern_1.csprojAssemblyReference.cache
+C:\Users\Aquil\source\repos\if_switch_tern_1\if_switch_tern_1\obj\Debug\if_switch_tern_1.csproj.CoreCompileInputs.cache
+C:\Users\Aquil\source\repos\if_switch_tern_1\if_switch_tern_1\obj\Debug\if_switch_tern_1.exe
+C:\Users\Aquil\source\repos\if_switch_tern_1\if_switch_tern_1\obj\Debug\if_switch_tern_1.pdb

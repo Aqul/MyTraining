@@ -1,0 +1,7 @@
+C:\Users\Aquil\source\repos\Methods_4\Methods_4\bin\Debug\Methods_4.exe.config
+C:\Users\Aquil\source\repos\Methods_4\Methods_4\bin\Debug\Methods_4.exe
+C:\Users\Aquil\source\repos\Methods_4\Methods_4\bin\Debug\Methods_4.pdb
+C:\Users\Aquil\source\repos\Methods_4\Methods_4\obj\Debug\Methods_4.csprojAssemblyReference.cache
+C:\Users\Aquil\source\repos\Methods_4\Methods_4\obj\Debug\Methods_4.csproj.CoreCompileInputs.cache
+C:\Users\Aquil\source\repos\Methods_4\Methods_4\obj\Debug\Methods_4.exe
+C:\Users\Aquil\source\repos\Methods_4\Methods_4\obj\Debug\Methods_4.pdb

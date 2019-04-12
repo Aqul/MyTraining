@@ -1,0 +1,7 @@
+C:\Users\Aquil\source\repos\area_of_visibility_5\area_of_visibility_5\obj\Debug\area_of_visibility_5.csprojAssemblyReference.cache
+C:\Users\Aquil\source\repos\area_of_visibility_5\area_of_visibility_5\obj\Debug\area_of_visibility_5.csproj.CoreCompileInputs.cache
+C:\Users\Aquil\source\repos\area_of_visibility_5\area_of_visibility_5\bin\Debug\area_of_visibility_5.exe.config
+C:\Users\Aquil\source\repos\area_of_visibility_5\area_of_visibility_5\bin\Debug\area_of_visibility_5.exe
+C:\Users\Aquil\source\repos\area_of_visibility_5\area_of_visibility_5\bin\Debug\area_of_visibility_5.pdb
+C:\Users\Aquil\source\repos\area_of_visibility_5\area_of_visibility_5\obj\Debug\area_of_visibility_5.exe
+C:\Users\Aquil\source\repos\area_of_visibility_5\area_of_visibility_5\obj\Debug\area_of_visibility_5.pdb

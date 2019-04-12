@@ -1,0 +1,7 @@
+C:\Users\Aquil\source\repos\Data_types\Data_types\bin\Debug\Data_types.exe.config
+C:\Users\Aquil\source\repos\Data_types\Data_types\bin\Debug\Data_types.exe
+C:\Users\Aquil\source\repos\Data_types\Data_types\bin\Debug\Data_types.pdb
+C:\Users\Aquil\source\repos\Data_types\Data_types\obj\Debug\Data_types.csprojAssemblyReference.cache
+C:\Users\Aquil\source\repos\Data_types\Data_types\obj\Debug\Data_types.csproj.CoreCompileInputs.cache
+C:\Users\Aquil\source\repos\Data_types\Data_types\obj\Debug\Data_types.exe
+C:\Users\Aquil\source\repos\Data_types\Data_types\obj\Debug\Data_types.pdb

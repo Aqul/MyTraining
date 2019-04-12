@@ -1,0 +1,7 @@
+C:\Users\Aquil\source\repos\massive_3\massive_3\bin\Debug\massive_3.exe.config
+C:\Users\Aquil\source\repos\massive_3\massive_3\bin\Debug\massive_3.exe
+C:\Users\Aquil\source\repos\massive_3\massive_3\bin\Debug\massive_3.pdb
+C:\Users\Aquil\source\repos\massive_3\massive_3\obj\Debug\massive_3.csprojAssemblyReference.cache
+C:\Users\Aquil\source\repos\massive_3\massive_3\obj\Debug\massive_3.csproj.CoreCompileInputs.cache
+C:\Users\Aquil\source\repos\massive_3\massive_3\obj\Debug\massive_3.exe
+C:\Users\Aquil\source\repos\massive_3\massive_3\obj\Debug\massive_3.pdb

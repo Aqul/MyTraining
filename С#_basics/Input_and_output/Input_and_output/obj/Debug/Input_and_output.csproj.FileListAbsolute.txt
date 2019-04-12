@@ -1,0 +1,7 @@
+C:\Users\Aquil\source\repos\Input_and_output\Input_and_output\bin\Debug\Input_and_output.exe.config
+C:\Users\Aquil\source\repos\Input_and_output\Input_and_output\bin\Debug\Input_and_output.exe
+C:\Users\Aquil\source\repos\Input_and_output\Input_and_output\bin\Debug\Input_and_output.pdb
+C:\Users\Aquil\source\repos\Input_and_output\Input_and_output\obj\Debug\Input_and_output.csprojAssemblyReference.cache
+C:\Users\Aquil\source\repos\Input_and_output\Input_and_output\obj\Debug\Input_and_output.csproj.CoreCompileInputs.cache
+C:\Users\Aquil\source\repos\Input_and_output\Input_and_output\obj\Debug\Input_and_output.exe
+C:\Users\Aquil\source\repos\Input_and_output\Input_and_output\obj\Debug\Input_and_output.pdb

@@ -1,0 +1,7 @@
+C:\Users\Aquil\source\repos\tuple_8\tuple_8\bin\Debug\tuple_8.exe.config
+C:\Users\Aquil\source\repos\tuple_8\tuple_8\bin\Debug\tuple_8.exe
+C:\Users\Aquil\source\repos\tuple_8\tuple_8\bin\Debug\tuple_8.pdb
+C:\Users\Aquil\source\repos\tuple_8\tuple_8\obj\Debug\tuple_8.csproj.CoreCompileInputs.cache
+C:\Users\Aquil\source\repos\tuple_8\tuple_8\obj\Debug\tuple_8.exe
+C:\Users\Aquil\source\repos\tuple_8\tuple_8\obj\Debug\tuple_8.pdb
+C:\Users\Aquil\source\repos\tuple_8\tuple_8\obj\Debug\tuple_8.csprojAssemblyReference.cache

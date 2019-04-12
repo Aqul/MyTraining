@@ -1,0 +1,7 @@
+C:\Users\Aquil\source\repos\enum_7\enum_7\bin\Debug\enum_7.exe.config
+C:\Users\Aquil\source\repos\enum_7\enum_7\bin\Debug\enum_7.exe
+C:\Users\Aquil\source\repos\enum_7\enum_7\bin\Debug\enum_7.pdb
+C:\Users\Aquil\source\repos\enum_7\enum_7\obj\Debug\enum_7.csprojAssemblyReference.cache
+C:\Users\Aquil\source\repos\enum_7\enum_7\obj\Debug\enum_7.csproj.CoreCompileInputs.cache
+C:\Users\Aquil\source\repos\enum_7\enum_7\obj\Debug\enum_7.exe
+C:\Users\Aquil\source\repos\enum_7\enum_7\obj\Debug\enum_7.pdb
